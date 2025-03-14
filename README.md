@@ -1,6 +1,6 @@
 # Hi there, I'm Tae 👋
 
-I'm currently a Junior at **Mahidol University**, studying **Computer Engineering**. I'm passionate about **Data Science** and **Software Development**, and I am motivated to expand my knowledge and skills in the tech industry.
+I'm currently a Junior at **Mahidol University**, studying **Computer Engineering**. I'm passionate about **Data Science**, **Full-Stack Web Development** and **Software Development**, and I am motivated to expand my knowledge and skills in the tech industry.
 
 ## ⚡ Skills & Technologies
 
