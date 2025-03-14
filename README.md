@@ -1,10 +1,10 @@
 ## Hi there, I'm Tae 👋
----
+
 I'm currently a Junior at Mahidol University, studying Computer Engineering. I'm passionate about Data Science and Software development, and I am motivated to expand my knowledge and skills in the tech industry.
 
-###⚡ Skills & Technologies
----
-####Full-Stack Web Development
+##⚡ Skills & Technologies
+
+##Full-Stack Web Development
 <ul>
 <li>Languages: Python, JavaScript, TypeScript</li>
 <li/>Frontend: React.js, Next.js, Tailwind CSS</li>
@@ -13,7 +13,7 @@ I'm currently a Junior at Mahidol University, studying Computer Engineering. I'm
 <li/>DevOps: Docker</li>
 </ul>
 
-####Other Skills
+##Other Skills
 <ul>
 <li>Languages: C++, Java</li>
 <li>Version Control: Git</li>
@@ -25,8 +25,8 @@ I'm currently a Junior at Mahidol University, studying Computer Engineering. I'm
 <li>project management: gantt</li>
 </ul>
 
-#### 🎯 Main Focus Right Now
----
+##🎯 Main Focus Right Now
+
 <ul>
 <li>Delving into the field of Software Development.</li>
 <li>Expanding my knowledge in Full-Stack Web Development.</li>
