@@ -19,7 +19,7 @@ I'm currently a Junior at **Mahidol University**, studying **Computer Engineerin
 - **Machine Learning**: Scikit-learn, TensorFlow
 - **Data Engineering / Big Data Processing**: Apache (Hadoop, PySpark)
 - **Deep Learning**: CNN, YOLO
-- **Project Management**: Gantt
+- **Project Management**: Gantter
 
 ## 🎯 Main Focus Right Now
 - Delving into the field of Software Development.
