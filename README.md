@@ -37,4 +37,4 @@ I'm a Computer Engineering student at **Mahidol University** focusing on the int
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pathaninOpa&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
-[**LinkedIn**](www.linkedin.com/in/pathanin-opachalearn-203890199) | [**Email**](mailto:pathanin.tae@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathanin-opachalearn-203890199) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathanin.tae@gmail.com)
