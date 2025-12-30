@@ -1,4 +1,4 @@
-# Hi, I'm Tae! 🤖
+# Hi, I'm Tae! 👋
 
 ### AI Researcher | Machine Learning Engineer | Data Scientist
 
