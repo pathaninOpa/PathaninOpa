@@ -2,7 +2,7 @@
 
 ### AI Researcher | Machine Learning Engineer | Data Scientist
 
-I'm a Computer Engineering student at **Mahidol University** focusing on the intersection of Data Science and Software Engineering. I specialize in building intelligent systems using **LLMs**, **Agentic AI**, and **Scalable ML Pipelines**.
+I'm a Computer Engineering student at **Mahidol University** focusing on improving my expertise in the field of Data Science and Software Engineering. I specialize in building intelligent systems using **LLMs**, **Agentic AI**, and **Scalable ML Pipelines**.
 
 ---
 
