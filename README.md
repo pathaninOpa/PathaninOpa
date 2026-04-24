@@ -1,6 +1,6 @@
 # Hi, I'm Tae! 👋
 
-### AI Researcher | Machine Learning Engineer | Data Scientist
+### AI | Machine Learning | Data Science Enthusiast
 
 I'm a Computer Engineering student at **Mahidol University** focusing on improving my expertise in the field of Data Science and Software Engineering. I specialize in building intelligent systems using **LLMs**, **Agentic AI**, and **Scalable ML Pipelines**.
 
